@@ -37,5 +37,10 @@ Knowing the target IP address let an attacker scan the server directly and map t
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20144902.png?raw=true)
 
+TASK 4 - Reading the HTTP Response Headers to see the Server Banner, Status, Cookies and Redirects.
 
+I ran the curl -I tool to access the HTTP headers of Networkwalks.com which leak their web server, caching stack, and their hidden endpoints.
 
+Attackers can read headers to fingerprint the stack and find entry points without even loading the full page.
+
+![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20144932.png?raw=true)
