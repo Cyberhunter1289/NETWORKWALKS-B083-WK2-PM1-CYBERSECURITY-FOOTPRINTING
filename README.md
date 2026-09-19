@@ -25,7 +25,7 @@ I have used the (whois tool) to reveal the registrar, registration and expiry da
 
 TASK 2 - To Fingerprint the Technologies running on the Networkwalks.com website e.g. Web Server, CMS, Plugins, Frameworks and IP Address
 
-Using the (whatweb tool) to expose the web server, frameworks and IP address of Networkwalks.com
+I have been able to use the (whatweb tool) to expose the web server, frameworks and IP address of Networkwalks.com
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20144321.png?raw=true)
 
