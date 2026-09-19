@@ -3,7 +3,7 @@ This is my Week 2 Networkwalks Project Module 1 - Footprinting (Reconnaissance) 
 
 Reconnaissance (also known as footprinting) is the first step in any real attack or security test. Before touching a target, an attacker quietly collects as much public information about the target as possible. This includes who owns the domain, its real IP address, the hosting provider, the web technologies it runs, its DNS and mail records, and whether a firewall is protecting it. All of this OSINT comes from information the target has already made public, so the target never even knows it is being studied.
 
-You can view my project report through here [https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/W2-PM-FINAL%20-%20Sample%20Report%20v2.docx](path/to/your/document.ext)
+You can view my project report through here [Link Text](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/W2-PM-FINAL%20-%20Sample%20Report%20v2.docx)
 
 TASKS TO COMPLETE (ON NETWORKWALKS.COM)
 
