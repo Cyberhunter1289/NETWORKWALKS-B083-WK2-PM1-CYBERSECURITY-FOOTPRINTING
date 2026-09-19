@@ -29,7 +29,7 @@ I have been able to use the (whatweb tool) to expose the web server, frameworks 
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20144321.png?raw=true)
 
-TASK 3 - To Resolve the domain name to its IP address using DNS.
+TASK 3 - To Resolve the Domain Name to its IP address using DNS.
 
 nslookup allows me to turn Networkwalks.com domain name into its real IP address.
 
@@ -37,7 +37,7 @@ Knowing the target IP address let an attacker scan the server directly and map t
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20144902.png?raw=true)
 
-TASK 4 - To Read the HTTP Response Headers to see the Server Banner, Status, Cookies and Redirects.
+TASK 4 - To Read the HTTP Response Headers and find the Server Banner, Status, Cookies and Redirects.
 
 I ran the curl -I tool to access the HTTP headers of Networkwalks.com which leak their web server, caching stack, and their hidden endpoints.
 
@@ -61,4 +61,4 @@ dnsrecon -d let attackers maps the target's entire DNS footprint which makes eac
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20145822.png?raw=true)
 
-NETWORKWALKS WEEK 2 PROJECT MODULE 1 (FOOOTPRINTING ON NETWORLWALKS.COM) DONE AND DUSTED.
+MY NETWORKWALKS WEEK 2 PROJECT MODULE 1 ON (NETWORLWALKS.COM FOOTPRINTING) DONE AND DUSTED.
