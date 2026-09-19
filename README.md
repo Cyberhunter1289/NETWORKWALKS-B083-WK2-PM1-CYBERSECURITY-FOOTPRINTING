@@ -17,3 +17,4 @@ Task 5. Run wafw00f to detect a Web Application Firewall.
 
 Task 6. Run dnsrecon to enumerate all DNS records.
 
+                  TASK 1 - Query the public domain registration record to find who owns the domain, when it was registered, and its name servers.
