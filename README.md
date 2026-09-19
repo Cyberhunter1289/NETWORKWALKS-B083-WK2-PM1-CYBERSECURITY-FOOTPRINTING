@@ -5,9 +5,14 @@ Reconnaissance (also called as footprinting) is the first step in any real attac
 
 TASKS TO COMPLETE.
 Task 1. Run whois to find the domain registration details.
+
 Task 2. Run whatweb to fingerprint the web technologies.
+
 Task 3. Run nslookup to resolve the domain to its IP address.
+
 Task 4. Run curl -I to read the HTTP response headers.
+
 Task 5. Run wafw00f to detect a Web Application Firewall.
+
 Task 6. Run dnsrecon to enumerate all DNS records.
 
