@@ -17,9 +17,9 @@ Task 5. Run wafw00f to detect a Web Application Firewall.
 
 Task 6. Run dnsrecon to enumerate all DNS records.
 
-  TASK 1 - Finding the public domain registration record with the (whois tool) on Kali to get informations like who owns the domain, when it was registered, and its name servers.
+  TASK 1 - Finding the public domain registration record with the (whois tool) on Kali to get informations like who owns the domain, when it was registered, and its servers name.
 
-  whois reveals the registrar, registration and expiry dates, and name servers.
+  whois reveals the registrar, registration and expiry dates, and servers name.
   
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20142413.png?raw=true?)
 
