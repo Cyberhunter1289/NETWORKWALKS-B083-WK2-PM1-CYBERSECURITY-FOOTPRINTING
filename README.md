@@ -32,8 +32,10 @@ Using the (whatweb tool) to expose the web server, frameworks and IP address of 
 TASK 3 - Resolving the domain name to its IP address using DNS.
 
 nslookup allows me to turn Networkwalks.com domain name into its real IP address.
+
 Knowing the target IP address let an attacker scan the server directly and map the target's infrastructure.
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK2-PM1-CYBERSECURITY-FOOTPRINTING/blob/main/Screenshot%202026-09-18%20144902.png?raw=true)
+
 
 
